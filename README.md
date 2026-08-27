@@ -10,7 +10,7 @@ Undergraduate Researcher · AI Optimization · Software Engineering
 
 ## About Me
 
-I am an undergraduate student at **Soongsil University** and a researcher at **AICA Lab**.  
+I am an undergraduate student at **Soongsil University** and a researcher at **Advanced Intelligent Computing Architecture Laboratory**.  
 My interests lie in **AI optimization** and **efficient deep learning systems**, with a focus on building practical solutions using Python and PyTorch.
 
 - Studying and researching AI optimization
