@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v4-final.gif" alt="Yunhong Min Profile Banner" width="100%" />
+  <img src="assets/banner-v5-network.gif" alt="Yunhong Min Profile Banner" width="100%" />
 </p>
 
 <p align="center">
