@@ -32,7 +32,7 @@ My interests lie in **AI optimization** and **efficient deep learning systems**,
 </p>
 
 ## My Token Usage
-[![Tokscale Stats](https://tokscale.ai/api/embed/<username>/svg)](https://tokscale.ai/u/myunhh)
+[![Tokscale Stats](https://tokscale.ai/api/embed/myunhh/svg)](https://tokscale.ai/u/myunhh)
 
 ## Selected Projects
 
