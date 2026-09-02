@@ -31,6 +31,9 @@ My interests lie in **AI optimization** and **efficient deep learning systems**,
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
 </p>
 
+## My Token Usage
+[![Tokscale Stats](https://tokscale.ai/api/embed/<username>/svg)](https://tokscale.ai/u/<myunhh>)
+
 ## Selected Projects
 
 - **OpenCowork**
