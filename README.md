@@ -32,10 +32,16 @@ My interests lie in **AI optimization** and **efficient deep learning systems**,
 </p>
 
 ## My Token Usage
+
 [![Tokscale Stats](https://tokscale.ai/api/embed/myunhh/svg?view=3d&compact=1)](https://tokscale.ai/u/myunhh)
 
 ## My Contritution
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D Profile Contrib" src="./profile-3d-contrib/profile-green-animate.svg">
+</picture>
 
 ## Selected Projects
 
