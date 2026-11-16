@@ -13,8 +13,8 @@
 
 ## About Me
 
-I am an undergraduate student at **Soongsil University** and a researcher at **Advanced Intelligent Computing Architecture Laboratory**.  
-My interests lie in **AI optimization** and **efficient deep learning systems**, with a focus on building practical solutions using Python and PyTorch.
+I am an undergraduate student at **Soongsil University** and a Undergrad Researcher at **Advanced Intelligent Computing Architecture(AICA) Laboratory**.  
+My interests lie in **AI optimization** and **Solving Everyday's Problem with Tech**, with a focus on building practical solutions.
 
 - Studying and researching AI optimization
 - Working primarily with Python, especially PyTorch
@@ -37,9 +37,10 @@ My interests lie in **AI optimization** and **efficient deep learning systems**,
 
 ## Selected Projects
 
-- [**MD-Note**](https://github.com/myunhh/MD-Note)
-- **PaperBridge**
-- **And Other Researchs**
+- [**MD-Note**](https://apps.apple.com/kr/app/md-note/id6785716593) - Can Use in Ipad
+- [**Atrataa Harness**](https://github.com/myunhh/Strataa) - New!
+- [**GeneUI**](https://github.com/myunhh/GeneUI)
+- **And Other Side Project / Researchs**
 
 ## GitHub Stats
 
