@@ -31,10 +31,6 @@ My interests lie in **AI optimization** and **Solving Everyday's Problem with Te
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
 </p>
 
-## My Token Usage
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/myunhh/svg?view=3d&compact=1)](https://tokscale.ai/u/myunhh)
-
 ## Selected Projects
 
 - [**MD-Note**](https://apps.apple.com/kr/app/md-note/id6785716593) - Ver 3.0 Published! / Can Use in Ipad!
@@ -42,6 +38,10 @@ My interests lie in **AI optimization** and **Solving Everyday's Problem with Te
 - [**Scaffolding Learn**](https://github.com/Scaffolding-Learn) - New! / Coding With AI, Learning Through AI
 - [**GeneUI**](https://github.com/myunhh/GeneUI)
 - **And Other Side Project / Researchs**
+
+## My Token Usage
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/myunhh/svg?view=3d&compact=1)](https://tokscale.ai/u/myunhh)
 
 ## GitHub Stats
 
