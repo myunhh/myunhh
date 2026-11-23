@@ -34,8 +34,8 @@ My interests lie in **AI optimization** and **Solving Everyday's Problem with Te
 ## Selected Projects
 
 - [**MD-Note**](https://apps.apple.com/kr/app/md-note/id6785716593) - Ver 3.0 Published! / Can Use in Ipad!
-- [**Atrataa Harness**](https://github.com/myunhh/Strataa) - New! / Harness For Research on omp with ARIS
-- [**Scaffolding Learn**](https://github.com/Scaffolding-Learn) - New! / Coding With AI, Learning Through AI
+- [**Essentia CLI**](https://github.com/myunhh/Essentia) - New! / CLI For Research with ARIS / pstack
+- [**Scaffolding Learn**](https://github.com/Scaffolding-Learn) - New! / Reducing Gap with AI - Don't let AI "just do" the job. Understand it.
 - [**GeneUI**](https://github.com/myunhh/GeneUI)
 - **And Other Side Project / Researchs**
 
