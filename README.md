@@ -34,7 +34,7 @@ My interests lie in **AI optimization** and **Solving Everyday's Problem with Te
 ## Selected Projects
 
 - [**MD-Note**](https://apps.apple.com/kr/app/md-note/id6785716593) - Ver 3.0 Published! / Can Use in Ipad!
-- [**Essentia CLI**](https://github.com/myunhh/Essentia) - New! / CLI For Research with ARIS / pstack
+- [**Essentia Harness**](https://github.com/myunhh/Essentia) - New! / Routing Based Research, Dev Harness
 - [**Scaffolding Learn**](https://github.com/Scaffolding-Learn) - New! / Reducing Gap with AI - Don't let AI "just do" the job. Understand it.
 - [**GeneUI**](https://github.com/myunhh/GeneUI)
 - **And Other Side Project / Researchs**
